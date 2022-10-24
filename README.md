@@ -1,3 +1,10 @@
+Notes:
+===
+Been spending a lot of time learning about JS rendered front end development and SSR (Server Side Rendering), hydration and partial hydration of Client Side data, asyncronous data fetching, etc. I know that Svelte was developed by the Vercel team with these things in mind, and it's build on my favorite tool: Vite. So I know I have to mess with it - forked this repo to get familiar with it when I have spare time. I thought their GraphQL queries for pulling Shopify product data were especially elegant, and it looks like Svelte might be borrowing some of Vue's more focused scoped coding practices. I'm still liking SolidJS more for server-side projects, but Svelte definitely looks good.
+
+---
+...
+
 # SvelteKit Commerce
 
 <img width="843" alt="sveltekit-commerce" src="https://user-images.githubusercontent.com/9113740/176811983-2bc99cac-e994-4c65-b8b2-5e2f845b3b8e.png">
